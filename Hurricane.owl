@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/10/ontologies/2017/0/untitled-ontology-6"
+     xml:base="http://www.semanticweb.org/10/ontologies/2017/0/untitled-ontology-6"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/10/ontologies/2017/0/untitled-ontology-6"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.guc.edu.eg/ontologies/ont.owl#Affected -->
+
+    <owl:ObjectProperty rdf:about="http://www.guc.edu.eg/ontologies/ont.owl#Affected">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#Affected"/>
+                <owl:someValuesFrom rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#WeatherSituation"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#Affected"/>
+                <owl:someValuesFrom rdf:resource="http://www.geonames.org/ontology#Feature"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.guc.edu.eg/ontologies/ont.owl#During -->
+
+    <owl:ObjectProperty rdf:about="http://www.guc.edu.eg/ontologies/ont.owl#During">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#During"/>
+                <owl:someValuesFrom rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#WeatherSituation"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#During"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2006/time#interval"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.guc.edu.eg/ontologies/ont.owl#Has -->
+
+    <owl:ObjectProperty rdf:about="http://www.guc.edu.eg/ontologies/ont.owl#Has">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#Has"/>
+                <owl:someValuesFrom rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#Hurricane"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#Has"/>
+                <owl:someValuesFrom rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#WeatherSituation"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.guc.edu.eg/ontologies/ont.owl#includes -->
+
+    <owl:ObjectProperty rdf:about="http://www.guc.edu.eg/ontologies/ont.owl#includes">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#includes"/>
+                <owl:someValuesFrom rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#WeatherSituation"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#includes"/>
+                <owl:someValuesFrom rdf:resource="http://www.guc.edu.eg/ontologies/ont.owl#WeatherCondition"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.geonames.org/ontology#Feature -->
+
+    <owl:Class rdf:about="http://www.geonames.org/ontology#Feature"/>
+    
+
+
+    <!-- http://www.geonames.org/ontology#featureCode -->
+
+    <owl:Class rdf:about="http://www.geonames.org/ontology#featureCode">
+        <rdfs:subClassOf rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.guc.edu.eg/ontologies/ont.owl#Hurricane -->
+
+    <owl:Class rdf:about="http://www.guc.edu.eg/ontologies/ont.owl#Hurricane"/>
+    
+
+
+    <!-- http://www.guc.edu.eg/ontologies/ont.owl#WeatherCondition -->
+
+    <owl:Class rdf:about="http://www.guc.edu.eg/ontologies/ont.owl#WeatherCondition"/>
+    
+
+
+    <!-- http://www.guc.edu.eg/ontologies/ont.owl#WeatherSituation -->
+
+    <owl:Class rdf:about="http://www.guc.edu.eg/ontologies/ont.owl#WeatherSituation"/>
+    
+
+
+    <!-- http://www.w3.org/2006/time#interval -->
+
+    <owl:Class rdf:about="http://www.w3.org/2006/time#interval"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.5.20160517-0735) https://github.com/owlcs/owlapi -->
+
