@@ -1,0 +1,110 @@
+Fifth day,Florida,airport,high wind speed,2729
+Second day,Florida,roads,dry humidity,2928
+Sixth day,Florida,forested lands,normal wind speed,2973
+Seven day,Florida,forested lands,high temprature,2940
+Third day,Florida,hills and mountains,tropical storm rain,2690
+Second day,Florida,facility,tropical storm rain,2815
+Fourth day,Florida,hills and mountains,low wind speed,2904
+Third day,Florida,bight,tropical storm rain,2936
+Second day,Florida,administrative area,high temprature,2902
+Second day,Florida,hills and mountains,high temprature,2550
+Second day,Florida,forested lands,normal wind speed,2939
+Second day,Florida,hills and mountains,dry humidity,2785
+Fourth day,Florida,administrative area,high rain,2596
+Second day,Florida,lakes,average humidity,2712
+First day,Florida,bight,moist humidity,2922
+Second day,Florida,roads,low pressure,2755
+Sixth day,Florida,facility,low pressure,2574
+Third day,Florida,hills and mountains,high pressure,2966
+Third day,Florida,bight,high temprature,2664
+First day,Florida,hills and mountains,medium rain,2757
+Third day,Florida,lakes,moist humidity,2855
+First day,Florida,facility,freezing temprature,2714
+First day,Florida,populated place,low wind speed,2578
+Fifth day,Florida,airport,freezing temprature,2861
+Third day,Florida,lakes,moist humidity,2662
+Sixth day,Florida,lakes,high wind speed,2724
+Seven day,Florida,forested lands,medium rain,2582
+First day,Florida,airport,high rain,2768
+Fourth day,Florida,airport,freezing temprature,2781
+Third day,Florida,airport,high pressure,2846
+Third day,Florida,populated place,low pressure,2630
+Second day,Florida,hills and mountains,light rain,2862
+Third day,Florida,facility,high temprature,2800
+Fifth day,Florida,bight,medium rain,2776
+Sixth day,Florida,roads,freezing temprature,2549
+Third day,Florida,bight,normal wind speed,2725
+Third day,Florida,roads,freezing temprature,2742
+Fourth day,Florida,airport,tropical storm rain,2565
+Fifth day,Florida,roads,medium rain,2624
+Fourth day,Florida,lakes,low wind speed,2943
+Third day,Florida,administrative area,freezing temprature,2871
+Fifth day,Florida,roads,normal wind speed,2980
+Fourth day,Florida,hills and mountains,low pressure,2898
+First day,Florida,bight,high temprature,2726
+Fifth day,Florida,facility,high temprature,2877
+Fourth day,Florida,airport,dry humidity,2672
+Third day,Florida,roads,high rain,2967
+Third day,Florida,forested lands,average humidity,2988
+First day,Florida,administrative area,high rain,2792
+Third day,Florida,roads,medium rain,2901
+First day,Florida,bight,high rain,2892
+Fifth day,Florida,lakes,light rain,2578
+Fifth day,Florida,hills and mountains,high temprature,2525
+Sixth day,Florida,administrative area,high pressure,2964
+Third day,Florida,hills and mountains,tropical storm rain,2695
+First day,Florida,roads,high wind speed,2608
+Fourth day,Florida,bight,normal wind speed,2716
+Third day,Florida,populated place,dry humidity,2564
+Third day,Florida,populated place,light rain,2517
+Second day,Florida,forested lands,high pressure,2541
+Seven day,Florida,administrative area,high pressure,2667
+First day,Florida,administrative area,high temprature,2736
+Fifth day,Florida,hills and mountains,moist humidity,2653
+First day,Florida,populated place,medium rain,2705
+Sixth day,Florida,forested lands,high pressure,2730
+Second day,Florida,administrative area,moist humidity,2933
+Sixth day,Florida,populated place,tropical storm rain,2749
+Seven day,Florida,lakes,dry humidity,2790
+Sixth day,Florida,roads,high wind speed,2578
+Seven day,Florida,hills and mountains,average humidity,2615
+First day,Florida,administrative area,high wind speed,2607
+Seven day,Florida,lakes,tropical storm rain,2767
+Seven day,Florida,hills and mountains,moist humidity,2634
+Fourth day,Florida,lakes,dry humidity,2847
+Fifth day,Florida,hills and mountains,average humidity,2564
+First day,Florida,populated place,normal wind speed,2706
+Third day,Florida,forested lands,high rain,2617
+Third day,Florida,roads,average humidity,2668
+Seven day,Florida,forested lands,high wind speed,2717
+First day,Florida,populated place,light rain,2886
+Sixth day,Florida,roads,medium rain,2677
+Second day,Florida,roads,high pressure,2854
+Seven day,Florida,lakes,low pressure,2575
+Third day,Florida,roads,low pressure,2523
+Fifth day,Florida,roads,high temprature,2806
+First day,Florida,administrative area,high pressure,2985
+Second day,Florida,hills and mountains,tropical storm rain,2957
+Fifth day,Florida,administrative area,medium rain,2701
+Seven day,Florida,facility,tropical storm rain,2918
+First day,Florida,lakes,normal wind speed,2872
+Sixth day,Florida,facility,average humidity,2688
+Fourth day,Florida,lakes,high rain,2923
+Seven day,Florida,hills and mountains,high rain,2895
+Seven day,Florida,roads,normal wind speed,2619
+Fifth day,Florida,roads,tropical storm rain,2999
+Third day,Florida,facility,high temprature,2799
+Second day,Florida,lakes,high pressure,2754
+Sixth day,Florida,facility,high wind speed,2663
+Fifth day,Florida,bight,high wind speed,2691
+Third day,Florida,administrative area,freezing temprature,2934
+Sixth day,Florida,forested lands,low wind speed,2634
+Third day,Florida,facility,average humidity,2768
+Sixth day,Florida,lakes,medium rain,2874
+Seven day,Florida,lakes,medium rain,2899
+Seven day,Florida,forested lands,normal wind speed,2847
+Third day,Florida,populated place,normal wind speed,2985
+Fifth day,Florida,roads,normal wind speed,2750
+Second day,Florida,hills and mountains,high rain,2534
+Sixth day,Florida,forested lands,tropical storm rain,2925
+Sixth day,Florida,airport,high rain,2702
